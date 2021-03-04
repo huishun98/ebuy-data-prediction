@@ -4,9 +4,10 @@
 
 ### Code files
 1. purchase_prophecy.py - predicts future purchases
-2. Dataset cleaning and generation.ipynb - consolidates sale data to obtain required amount of each raw material
-3. sales_prophecy.py - predicts future sales/required amount of each raw material, based on cleaned data from Dataset cleaning and generation.ipynb
-4. Plots.ipynb - plot for purchase and sale of each raw material over time
+2. Graph comparison for test and actual.ipynb - plots comparing predicted and actual purchase amounts of raw material, to visualise accuracy of model
+3. Dataset cleaning and generation.ipynb - consolidates sale data to obtain required amount of each raw material
+4. sales_prophecy.py - predicts future sales/required amount of each raw material, based on cleaned data from Dataset cleaning and generation.ipynb
+5. Plots.ipynb - plot for purchase and sale of each raw material over time
 
 Note: before running .py files, remember to download dependencies listed in requirements.txt by running `pip install -r requirements.txt`
 
