@@ -1,0 +1,35 @@
+product_sku,sales_spec,raw_material_sku,raw_material_name
+A001-1,2,A001,Enoki mushroom
+A001-2,1,A001,Enoki mushroom
+A013,1,A001,Enoki mushroom
+A002-1,1,A002,Oyster mushroom
+A002-2,0.5,A002,Oyster mushroom
+A013,0.5,A002,Oyster mushroom
+A003-1,0.085,A003,Shiitake mushroom
+A003-2,0.043,A003,Shiitake mushroom
+A013,0.043,A003,Shiitake mushroom
+A004-1,0.15,A004,Pleurotus eryngii
+A004-2,0.075,A004,Pleurotus eryngii
+A013,0.075,A004,Pleurotus eryngii
+A005-1,1,A005,Crab mushroom
+A005-2,0.5,A005,Crab mushroom
+A013,0.5,A005,Crab mushroom
+A006-1,1,A006,Bamboo shoots
+A010-1,0.5,A006,Bamboo shoots
+A007-1,0.125,A007,Spinach
+A014,0.065,A007,Spinach
+A008,0.125,A008,Crown Daisy
+A014,0.065,A008,Crown Daisy
+A009,0.15,A009,Indian Lettuce
+A014,0.075,A009,Indian Lettuce
+A010,0.1,A010,Fresh Lettuce
+A014,0.05,A010,Fresh Lettuce
+A011,0.2,A011,Chinese Cabbage
+A014,0.1,A011,Chinese Cabbage
+A012,0.14,A012,Baby Cabbage
+A012-1,0.14,A012,Baby Cabbage
+A009-1,0.15,A009,Indian Lettuce
+A008-1,0.125,A008,Crown Daisy
+A011-1,0.2,A011,Chinese Cabbage
+A010,0.1,A010,Fresh Lettuce
+A006-2,0.5,A006,Bamboo shoots
