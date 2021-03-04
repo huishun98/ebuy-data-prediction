@@ -16,6 +16,12 @@ Note: before running .py files, remember to download dependencies listed in requ
 2. Master Data (Sales).xlsx - Sales data for 3 outlets, from 2018/01 to 2020/12 (inclusive)
 3. Collated dataset - Sheet1.csv - Product's mapping to raw materials, obtained from Data Summary.docx.
 
+### Directories
+1. churned datasets - required amount of each raw material each day (past data)
+2. graphs - generated graphs
+3. prediction datasets - required amount of each raw material each day (prediction)
+4. purchase forecast datasets - prediction and actual data of test sets for amount of each raw material to purchase/purchased
+
 ### Other documents
 1. Data Summary.docx - Summary of the data
 2. Answer Sheet.xlsx - Filled in by participants in their predicted results in this Answer sheet.
