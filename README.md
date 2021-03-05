@@ -25,4 +25,6 @@ Note: before running .py files, remember to download dependencies listed in requ
 
 ### Other documents
 1. Data Summary.docx - Summary of the data
-2. Answer Sheet.xlsx - Filled in by participants in their predicted results in this Answer sheet.
+2. Answer Sheet.xlsx - Predicted results, filled in by participants.
+3. slide deck.pdf - 3-min pitch deck
+4. demo.mp4 - demo video/pitch
