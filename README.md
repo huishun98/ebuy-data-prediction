@@ -1,4 +1,4 @@
-# Ezbuy data prediction
+# Ebuy data prediction
 
 ## Description of files
 
